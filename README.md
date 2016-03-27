@@ -5,7 +5,7 @@ An advance MD5 cracker using API of this web sites:
 * [md5online.net](http://md5online.net)
 * [md5decryption.com](http://md5decryption.com)
 
-And now it have own HTTP based API.
+And now it has own HTTP based API.
 
 For crack a string use
 ```
